@@ -1,0 +1,132 @@
+{
+  "id" : "javassist",
+  "info" : { },
+  "attributes" : {
+    "organization" : [ "org.javassist" ],
+    "name" : [ "javassist" ],
+    "version" : [ "3.18.0-GA" ]
+  },
+  "configurations" : [ {
+    "id" : "optional",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "org.javassist" ],
+      "name" : [ "javassist" ],
+      "version" : [ "3.18.0-GA" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "javadoc",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "org.javassist" ],
+      "name" : [ "javassist" ],
+      "version" : [ "3.18.0-GA" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "compile",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "org.javassist" ],
+      "name" : [ "javassist" ],
+      "version" : [ "3.18.0-GA" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "default",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ {
+      "hash" : "3411bf74d22bcd7e50086085ecea64be419aef9431a3fb871f43b4e57adbb0e5",
+      "attributes" : {
+        "configurations" : [ "master" ]
+      },
+      "filename" : "javassist-3.18.0-GA.jar"
+    } ],
+    "attributes" : {
+      "organization" : [ "org.javassist" ],
+      "name" : [ "javassist" ],
+      "version" : [ "3.18.0-GA" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "master",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ {
+      "hash" : "3411bf74d22bcd7e50086085ecea64be419aef9431a3fb871f43b4e57adbb0e5",
+      "attributes" : {
+        "configurations" : [ "master" ]
+      },
+      "filename" : "javassist-3.18.0-GA.jar"
+    } ],
+    "attributes" : {
+      "organization" : [ "org.javassist" ],
+      "name" : [ "javassist" ],
+      "version" : [ "3.18.0-GA" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "runtime",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "org.javassist" ],
+      "name" : [ "javassist" ],
+      "version" : [ "3.18.0-GA" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "test",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "org.javassist" ],
+      "name" : [ "javassist" ],
+      "version" : [ "3.18.0-GA" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "sources",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "org.javassist" ],
+      "name" : [ "javassist" ],
+      "version" : [ "3.18.0-GA" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "provided",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "org.javassist" ],
+      "name" : [ "javassist" ],
+      "version" : [ "3.18.0-GA" ]
+    },
+    "requirements" : [ ]
+  }, {
+    "id" : "system",
+    "extends-configurations" : [ ],
+    "info" : { },
+    "artifacts" : [ ],
+    "attributes" : {
+      "organization" : [ "org.javassist" ],
+      "name" : [ "javassist" ],
+      "version" : [ "3.18.0-GA" ]
+    },
+    "requirements" : [ ]
+  } ]
+}

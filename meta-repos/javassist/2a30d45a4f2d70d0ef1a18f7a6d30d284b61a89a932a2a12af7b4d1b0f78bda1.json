@@ -1,0 +1,35 @@
+{
+  "id" : "javassist",
+  "variants" : [ "a161ffb7eb1c6c5985adbe56c60e5944a03f361f31c7ca5c93d3568f8eabf157", "7456b3485d378c70a088dccd7547510c8414eb9f2ce273bdb6f0318a0b394c80", "b06fea5110f1636d47ac24fa7587d805a667af9a621341c5d58024545a7a94e0", "cfa26d64c0388601524ee7cab728ada7716bd5d8a7387ce61b62763a0391d9d2", "319a7cbc016c93285e250a307f937c0e1f5082a006ea54d2b182144c20f9ffec", "7a950c62c6b4d016b75ae7d45431e7bf0a5324dbf869f7f5b7eef5a8fc64dff0", "329f85f621de5b6c9a3c707c5a3ea85ad57750272fc0c8c397cb419c72208cac", "40c34c4878fe4511413d64a7e35010f163378b3d95997e873fb1fa318c0801d6", "0c4c4b6d009d731cb9817a2e39a4b7c4881875b3104a90b6659202b541e23445", "a7c0b2101011b133a40f7d7d1a8eb90acae89c328d352e085fdacda224c327b1", "37fff42c936d4499026af716f8122518314d662b5b10da265f1ed5c3760401b4" ],
+  "configurations" : [ {
+    "id" : "test",
+    "repositories" : [ ]
+  }, {
+    "id" : "provided",
+    "repositories" : [ ]
+  }, {
+    "id" : "system",
+    "repositories" : [ ]
+  }, {
+    "id" : "master",
+    "repositories" : [ ]
+  }, {
+    "id" : "optional",
+    "repositories" : [ ]
+  }, {
+    "id" : "compile",
+    "repositories" : [ ]
+  }, {
+    "id" : "default",
+    "repositories" : [ ]
+  }, {
+    "id" : "sources",
+    "repositories" : [ ]
+  }, {
+    "id" : "javadoc",
+    "repositories" : [ ]
+  }, {
+    "id" : "runtime",
+    "repositories" : [ ]
+  } ]
+}
